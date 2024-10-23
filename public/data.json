@@ -2,7 +2,7 @@
   {
     "recipe_id": 1,
     "recipe_name": "Grilled Chicken with Basil",
-    "recipe_image": "https://yourimagehost.com/grilled_chicken.jpg",
+    "recipe_image": "https://i.ibb.co.com/k4z2wPM/grilled-chicken-breasts-with-vegetables-23-2148189806.jpg",
     "short_description": "A delicious grilled chicken recipe with fresh basil and mushrooms.",
     "ingredients": [
       "550 g chicken",
@@ -16,7 +16,7 @@
   {
     "recipe_id": 2,
     "recipe_name": "Spaghetti Carbonara",
-    "recipe_image": "https://yourimagehost.com/spaghetti_carbonara.jpg",
+    "recipe_image": "https://i.ibb.co.com/GHd5k2w/bowl-spaghetti-with-green-leaf-top-1340-26760.jpg",
     "short_description": "A classic Italian pasta dish made with eggs, cheese, pancetta, and pepper.",
     "ingredients": [
       "200 g spaghetti",
@@ -31,7 +31,7 @@
   {
     "recipe_id": 3,
     "recipe_name": "Avocado Toast",
-    "recipe_image": "https://yourimagehost.com/avocado_toast.jpg",
+    "recipe_image": "https://i.ibb.co.com/BjLS6xG/avocado-open-toast-with-avocado-slices-lemon-flax-seeds-sesame-seeds-black-bread-slices-top-view-283.jpg",
     "short_description": "Simple and healthy avocado toast topped with chili flakes and lemon juice.",
     "ingredients": [
       "1 ripe avocado",
@@ -45,7 +45,7 @@
   {
     "recipe_id": 4,
     "recipe_name": "Beef Stir-fry",
-    "recipe_image": "https://yourimagehost.com/beef_stir_fry.jpg",
+    "recipe_image": "https://i.ibb.co.com/fnd7f09/stir-frying-beef-with-sweet-peppers-green-beans-2829-20102.jpg",
     "short_description": "A quick and easy stir-fry with tender beef, broccoli, and soy sauce.",
     "ingredients": [
       "300 g beef strips",
@@ -60,7 +60,7 @@
   {
     "recipe_id": 5,
     "recipe_name": "Mushroom Risotto",
-    "recipe_image": "https://yourimagehost.com/mushroom_risotto.jpg",
+    "recipe_image": "https://i.ibb.co.com/T44YRV5/vegetarian-risotto-with-fresh-mushrooms-parmesan-cheese-generated-by-ai-188544-10223.jpg",
     "short_description": "A creamy and savory risotto made with fresh mushrooms and parmesan.",
     "ingredients": [
       "300 g arborio rice",
@@ -75,7 +75,7 @@
   {
     "recipe_id": 6,
     "recipe_name": "Chocolate Brownies",
-    "recipe_image": "https://yourimagehost.com/chocolate_brownies.jpg",
+    "recipe_image": "https://i.ibb.co.com/hC0WwtR/close-up-delicious-chocolate-brownies-ready-be-served-23-2148622281.jpg",
     "short_description": "Rich and fudgy chocolate brownies with a crispy top.",
     "ingredients": [
       "200 g dark chocolate",
