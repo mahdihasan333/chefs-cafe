@@ -1,6 +1,6 @@
+/* eslint-disable react/prop-types */
 const Recipe = ({ recipe, addRecipeToQueue }) => {
   const {
-    recipe_id,
     recipe_name,
     recipe_image,
     short_description,
